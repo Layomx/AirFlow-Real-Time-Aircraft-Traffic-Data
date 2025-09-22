@@ -1,0 +1,6 @@
+delta-spark==2.2.0
+pyspark==3.3.1
+requests==2.28.2
+python-dotenv==0.21.0
+pandas==1.5.3
+plotly==5.14.1
